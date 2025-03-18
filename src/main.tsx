@@ -4,9 +4,6 @@ const root: Root = createRoot(document.querySelector('#root') as HTMLBodyElement
 
 const MainContent =  () => <h1>React is Great!</h1>
 
-const listEl = document.querySelector('#list');
-
-
 const newHeaderElement = document.createElement('h1');
 newHeaderElement.textContent = 'Im a vanilla text within a H1';
 newHeaderElement.className = 'new-class'

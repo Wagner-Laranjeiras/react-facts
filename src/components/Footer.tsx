@@ -1,6 +1,6 @@
 const Footer = () => {
     return ( 
-        <span>Copyright mock up text.</span>
+        <span>© 2024 Wagner Development.All rights reserved.</span>
      );
 }
  

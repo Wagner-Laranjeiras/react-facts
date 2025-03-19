@@ -8,7 +8,7 @@ const MainContent = () => {
                 <li>It also has a pretty big community</li>
                 <li>It's constantly updated and maintained</li>
             </ul>
-        </ main >
+        </main>
      );
 }
  
